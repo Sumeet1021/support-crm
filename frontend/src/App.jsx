@@ -12,7 +12,7 @@ import "./App.css";
 
 // ─── Constants ────────────────────────────────────────────────────────────────
 
-const API_BASE = "http://127.0.0.1:8000/api";
+const API_BASE = "https://supportdesk-backend-5weq.onrender.com/api";
 
 const STATUS_OPTIONS = ["Open", "In Progress", "Closed"];
 
